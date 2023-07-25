@@ -1,0 +1,10 @@
+* cl-online-learning
+
+A collection of machine learning algorithms for online linear classification written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/masatoi/cl-online-learning.git   |
+| commit  | 99ff87f  |
+| systems | cl-online-learning |
+|---------+-------------------------------------------|
+
